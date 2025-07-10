@@ -32,11 +32,11 @@ This project uses deep learning and computer vision to classify fruit images as 
 - Source: [Fruits Fresh and Rotten for Classification – Kaggle](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification?resource=download)
 
 
-## 🖼️ From Image:
+## 🖼️ From Image
 Inside `fruit_predictor.py`, uncomment and update the following line:
 'predict_from_image("path/to/image.jpg", my_model, device)'
 
-## 🎥 From Webcam:
+## 🎥 From Webcam
 Inside `fruit_predictor.py`, uncomment the webcam line:
 'predict_from_camera(my_model, device)'
 
