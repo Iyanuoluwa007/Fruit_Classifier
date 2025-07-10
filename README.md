@@ -27,7 +27,3 @@ This project uses deep learning and computer vision to classify fruit images as 
   - `rotten orange`
 - **Input Size:** 224x224
 
----
-
-## 🗂️ Directory Structure
-
