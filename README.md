@@ -27,3 +27,17 @@ This project uses deep learning and computer vision to classify fruit images as 
   - `rotten orange`
 - **Input Size:** 224x224
 
+## 🗂️ Dataset
+
+- Source: [Fruits Fresh and Rotten for Classification – Kaggle](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification?resource=download)
+
+
+## From image:
+# Inside fruit_predictor.py
+'predict_from_image("path/to/image.jpg", my_model, device)'
+
+## From webcam:
+# Inside fruit_predictor.py
+'predict_from_camera(my_model, device)'
+
+# Press 'q' to quit webcam mode.
