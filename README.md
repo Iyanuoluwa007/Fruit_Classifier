@@ -33,11 +33,11 @@ This project uses deep learning and computer vision to classify fruit images as 
 
 
 ## 🖼️ From Image:
-# Inside `fruit_predictor.py`, uncomment and update the following line:
+Inside `fruit_predictor.py`, uncomment and update the following line:
 'predict_from_image("path/to/image.jpg", my_model, device)'
 
 ## 🎥 From Webcam:
-# Inside fruit_predictor.py, uncomment the webcam line:
+Inside `fruit_predictor.py`, uncomment the webcam line:
 'predict_from_camera(my_model, device)'
 
-# Press 'q' to quit webcam mode.
+Press 'q' to quit webcam mode.
